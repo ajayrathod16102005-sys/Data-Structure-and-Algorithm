@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -21,8 +22,17 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
