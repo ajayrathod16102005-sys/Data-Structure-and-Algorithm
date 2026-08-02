@@ -25,6 +25,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
