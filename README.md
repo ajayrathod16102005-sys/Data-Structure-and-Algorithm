@@ -45,4 +45,16 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0010-regular-expression-matching) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
