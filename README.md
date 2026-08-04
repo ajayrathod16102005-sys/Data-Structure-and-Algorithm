@@ -14,6 +14,7 @@
 | [0009-palindrome-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 ## Recursion
 |  |
@@ -62,6 +63,7 @@
 | [0027-remove-element](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
