@@ -52,6 +52,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
