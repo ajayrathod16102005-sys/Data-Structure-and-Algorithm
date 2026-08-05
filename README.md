@@ -13,6 +13,7 @@
 | [0007-reverse-integer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
+| [0060-permutation-sequence](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
@@ -22,6 +23,7 @@
 | [0002-add-two-numbers](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
 | ------- |
