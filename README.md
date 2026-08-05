@@ -50,6 +50,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0068-text-justification) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0068-text-justification) |
@@ -93,5 +95,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
