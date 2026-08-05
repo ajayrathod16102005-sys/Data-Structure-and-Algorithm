@@ -35,6 +35,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0068-text-justification) |
