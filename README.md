@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0011-container-with-most-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 ## Greedy
 |  |
 | ------- |
