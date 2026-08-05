@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 ## Array
@@ -64,6 +65,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0068-text-justification) |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
