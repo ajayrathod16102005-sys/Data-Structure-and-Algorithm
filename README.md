@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0066-plus-one](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +124,5 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
