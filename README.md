@@ -85,6 +85,7 @@
 | [0078-subsets](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Combinatorics
 |  |
 | ------- |
