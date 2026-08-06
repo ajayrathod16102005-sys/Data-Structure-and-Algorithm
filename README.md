@@ -76,6 +76,7 @@
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -101,4 +103,16 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
