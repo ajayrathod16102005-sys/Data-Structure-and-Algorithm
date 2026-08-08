@@ -68,6 +68,7 @@
 | [0055-jump-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
 ## Array
 |  |
 | ------- |
@@ -133,8 +134,21 @@
 | [0077-combinations](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
