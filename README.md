@@ -15,6 +15,7 @@
 | [0007-reverse-integer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
@@ -40,6 +42,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
