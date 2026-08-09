@@ -33,6 +33,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
@@ -88,6 +89,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
@@ -129,6 +131,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
