@@ -81,6 +81,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
@@ -102,6 +103,7 @@
 | [0039-combination-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
@@ -121,6 +123,7 @@
 | [0016-3sum-closest](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -196,6 +199,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -217,4 +221,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
