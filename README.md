@@ -18,6 +18,7 @@
 | [0009-palindrome-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
@@ -53,6 +54,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
@@ -73,6 +75,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0068-text-justification) |
