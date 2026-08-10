@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0092-reverse-linked-list-ii) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0060-permutation-sequence) |
 ## Hash Table
