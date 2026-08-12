@@ -10,6 +10,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 ## Math
 |  |
@@ -185,11 +186,13 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -199,6 +202,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -208,6 +212,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
