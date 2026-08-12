@@ -113,6 +113,7 @@
 | [0042-trapping-rain-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
@@ -166,11 +167,13 @@
 | ------- |
 | [0015-3sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
