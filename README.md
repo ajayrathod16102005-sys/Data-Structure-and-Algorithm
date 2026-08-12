@@ -42,6 +42,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
@@ -121,6 +122,7 @@
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
@@ -163,6 +165,7 @@
 | [0036-valid-sudoku](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 ## Sorting
 |  |
