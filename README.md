@@ -92,6 +92,7 @@
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
+| [0120-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
 ## Array
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
 ## Two Pointers
 |  |
 | ------- |
