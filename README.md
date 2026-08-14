@@ -76,6 +76,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -239,6 +240,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
