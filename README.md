@@ -44,6 +44,7 @@
 | [0041-first-missing-positive](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0076-minimum-window-substring](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0091-decode-ways](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 ## Array
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | [0120-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,6 +235,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -270,4 +275,12 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
