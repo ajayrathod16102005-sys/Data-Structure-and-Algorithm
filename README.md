@@ -76,6 +76,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
@@ -131,6 +132,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
