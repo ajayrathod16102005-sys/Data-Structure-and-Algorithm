@@ -110,6 +110,7 @@
 | [0062-unique-paths](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0097-interleaving-string) |
@@ -151,6 +152,7 @@
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
@@ -200,6 +202,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 ## Sorting
 |  |
@@ -282,6 +285,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 ## Bracket Sequences
@@ -312,6 +316,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
 ## Breadth-First Search
 |  |
 | ------- |
