@@ -10,6 +10,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
@@ -187,6 +188,7 @@
 | [0061-rotate-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 ## Greedy
