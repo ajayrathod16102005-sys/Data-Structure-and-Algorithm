@@ -52,6 +52,7 @@
 | [0041-first-missing-positive](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
@@ -166,6 +167,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
@@ -278,6 +280,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -298,6 +301,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -326,6 +330,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
