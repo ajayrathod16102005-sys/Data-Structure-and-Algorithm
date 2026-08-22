@@ -32,6 +32,7 @@
 | [0069-sqrtx](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0137-single-number-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Two Pointers
@@ -334,6 +336,7 @@
 | [0085-maximal-rectangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
