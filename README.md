@@ -334,6 +334,7 @@
 | [0085-maximal-rectangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -415,4 +416,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
