@@ -54,6 +54,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
@@ -172,6 +173,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0137-single-number-ii) |
@@ -377,6 +379,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 ## String Matching
 |  |
