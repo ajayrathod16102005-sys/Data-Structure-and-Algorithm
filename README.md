@@ -31,6 +31,7 @@
 | [0067-add-binary](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0085-maximal-rectangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0101-symmetric-tree) |
@@ -289,12 +292,14 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0101-symmetric-tree) |
