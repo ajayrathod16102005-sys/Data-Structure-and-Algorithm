@@ -164,6 +164,7 @@
 | [0041-first-missing-positive](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
@@ -271,6 +272,7 @@
 | [0022-generate-parentheses](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
