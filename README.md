@@ -129,6 +129,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
@@ -169,6 +170,7 @@
 | [0046-permutations](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0057-insert-interval) |
@@ -367,6 +369,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0190-reverse-bits) |
