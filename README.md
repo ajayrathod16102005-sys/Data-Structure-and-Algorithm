@@ -312,6 +312,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0101-symmetric-tree) |
@@ -324,6 +325,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
@@ -349,6 +351,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
@@ -377,6 +380,7 @@
 | [0042-trapping-rain-water](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
