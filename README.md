@@ -36,6 +36,7 @@
 | [0070-climbing-stairs](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -474,4 +476,24 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
