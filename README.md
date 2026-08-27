@@ -106,6 +106,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sliding Window
 |  |
 | ------- |
@@ -333,6 +334,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Tree
 |  |
 | ------- |
@@ -383,6 +385,7 @@
 | [0014-longest-common-prefix](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Stack
 |  |
 | ------- |
@@ -487,6 +490,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Enumeration
 |  |
 | ------- |
