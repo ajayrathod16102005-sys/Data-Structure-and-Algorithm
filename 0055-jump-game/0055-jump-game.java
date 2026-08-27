@@ -3,6 +3,7 @@ class Solution {
         int farthest = 0;
 
         for (int i = 0; i < nums.length; i++) {
+        
             // If current index is not reachable
             if (i > farthest) {
                 return false;
