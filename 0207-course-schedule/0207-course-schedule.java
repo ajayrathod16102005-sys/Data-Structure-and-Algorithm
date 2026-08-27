@@ -6,6 +6,8 @@ class Solution {
         // Create adjacency list
         List<List<Integer>> graph = new ArrayList<>();
 
+
+
         for (int i = 0; i < numCourses; i++) {
             graph.add(new ArrayList<>());
         }
