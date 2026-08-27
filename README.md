@@ -65,6 +65,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
+| [0205-isomorphic-strings](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0140-word-break-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
