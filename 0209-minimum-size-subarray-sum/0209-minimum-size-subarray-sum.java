@@ -16,6 +16,10 @@ class Solution {
 
                 sum -= nums[left];
                 left++;
+        
+        
+        
+        
             }
         }
 
