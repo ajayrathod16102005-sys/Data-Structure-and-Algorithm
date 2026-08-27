@@ -16,6 +16,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0044-wildcard-matching](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
