@@ -112,6 +112,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -514,4 +517,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
