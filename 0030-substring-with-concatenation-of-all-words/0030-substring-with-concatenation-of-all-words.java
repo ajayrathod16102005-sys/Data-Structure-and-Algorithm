@@ -2,12 +2,10 @@ import java.util.*;
 
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
-
-
-
         List<Integer> result = new ArrayList<>();
 
         int wordLen = words[0].length();
+        
         int wordCount = words.length;
         int totalLen = wordLen * wordCount;
 
