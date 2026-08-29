@@ -6,8 +6,10 @@ class Solution {
         // Step 1: Find the first decreasing element
         int i = n - 2;
 
-        while (i >= 0 && nums[i] >= nums[i + 1]) {
+        while (i >= 0 && nums[i] >= nums[i + 1]) 
+        {
             i--;
+            
         }
 
         // Step 2: Find the next larger element and swap
