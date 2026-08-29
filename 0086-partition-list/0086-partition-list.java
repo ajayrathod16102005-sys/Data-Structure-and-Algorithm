@@ -1,4 +1,5 @@
 class Solution {
+    
     public ListNode partition(ListNode head, int x) {
 
         // Dummy nodes for two partitions
