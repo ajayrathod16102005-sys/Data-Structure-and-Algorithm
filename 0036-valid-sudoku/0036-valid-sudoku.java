@@ -23,6 +23,7 @@ class Solution {
 
                 // Check duplicate
                 if (rows[row][digit] ||
+                
                     cols[col][digit] ||
                     boxes[box][digit]) {
 
