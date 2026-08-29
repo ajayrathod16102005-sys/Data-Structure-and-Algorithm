@@ -6,6 +6,7 @@ class Solution {
             return head;
         }
 
+
         // Dummy node
         ListNode dummy = new ListNode(0);
         dummy.next = head;
