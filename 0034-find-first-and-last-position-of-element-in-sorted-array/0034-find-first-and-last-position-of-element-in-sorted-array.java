@@ -7,6 +7,7 @@ class Solution {
         return new int[]{first, last};
     }
 
+
     // Find first occurrence
     private int findFirst(int[] nums, int target) {
         int left = 0;
