@@ -2,7 +2,8 @@ class Solution {
 
     public String longestPalindrome(String s) {
 
-        if (s.length() < 2) {
+        if (s.length() < 2)
+         {
             return s;
         }
 
