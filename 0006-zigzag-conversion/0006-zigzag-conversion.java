@@ -3,6 +3,7 @@ class Solution {
 
         // Edge case
         if (numRows == 1 || numRows >= s.length()) {
+            
             return s;
         }
 
