@@ -8,6 +8,7 @@ class Solution {
 
         // 1. Skip leading spaces
         while (i < n && s.charAt(i) == ' ') {
+           
             i++;
         }
 
