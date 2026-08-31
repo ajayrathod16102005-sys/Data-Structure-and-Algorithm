@@ -5,7 +5,8 @@ class Solution {
         int n = intervals.length;
 
         // 1. Add all intervals before newInterval
-        while (i < n && intervals[i][1] < newInterval[0]) {
+        while (i < n && intervals[i][1] < newInterval[0])
+         {
             result.add(intervals[i]);
             i++;
         }
