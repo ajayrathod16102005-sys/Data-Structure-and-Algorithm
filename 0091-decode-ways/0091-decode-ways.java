@@ -1,6 +1,7 @@
 class Solution {
     public int numDecodings(String s) {
         
+
         int n = s.length();
 
         // dp[i] = number of ways to decode first i characters
@@ -18,6 +19,7 @@ class Solution {
             char one = s.charAt(i - 1);
 
             if (one >= '1' && one <= '9') {
+                
                 dp[i] += dp[i - 1];
             }
 
