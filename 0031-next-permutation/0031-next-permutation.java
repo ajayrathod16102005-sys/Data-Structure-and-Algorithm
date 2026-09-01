@@ -17,6 +17,8 @@ class Solution {
             int j = n - 1;
 
             while (nums[j] <= nums[i]) {
+             
+             
                 j--;
             }
 
