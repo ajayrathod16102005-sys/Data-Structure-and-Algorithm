@@ -22,7 +22,9 @@ class Solution {
 
             for (int j = 1; j <= n; j++) {
 
+
                 char sc = s.charAt(i - 1);
+               
                 char pc = p.charAt(j - 1);
 
                 if (pc == '.' || pc == sc) {
