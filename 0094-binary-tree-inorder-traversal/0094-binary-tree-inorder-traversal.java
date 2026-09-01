@@ -17,12 +17,14 @@ class Solution {
             }
 
             // Process the node
+           
             current = stack.pop();
             result.add(current.val);
 
             // Move to right subtree
             current = current.right;
         }
+        
 
         return result;
     }
