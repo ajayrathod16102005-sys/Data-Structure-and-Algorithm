@@ -164,6 +164,7 @@
 | [0115-distinct-subsequences](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
@@ -215,6 +216,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0134-gas-station) |
