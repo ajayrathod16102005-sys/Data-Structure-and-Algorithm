@@ -5,7 +5,8 @@ class Solution {
 
         factorial[0] = 1;
         for (int i = 1; i <= n; i++) {
-            factorial[i] = factorial[i - 1] * i;
+            factorial[i]  = factorial[i - 1] * i;
+           
             numbers.add(i);
         }
 
