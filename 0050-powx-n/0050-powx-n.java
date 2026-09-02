@@ -1,10 +1,11 @@
 class Solution {
     public double myPow(double x, int n) {
+       
         long power = n;  // long is important for Integer.MIN_VALUE
 
         if (power < 0) {
             x = 1 / x;
-            power = -power;
+            power   = -power;
         }
 
         double result = 1.0;
