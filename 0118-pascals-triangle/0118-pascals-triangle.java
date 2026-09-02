@@ -1,6 +1,8 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
 
+      
+      
         List<List<Integer>> result = new ArrayList<>();
 
         for (int i = 0; i < numRows; i++) {
