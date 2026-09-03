@@ -1,5 +1,6 @@
 class Solution {
-    public String getPermutation(int n, int k) {
+    public String getPermutation(int n, int k)
+     {
         List<Integer> numbers = new ArrayList<>();
         int[] factorial = new int[n + 1];
 
