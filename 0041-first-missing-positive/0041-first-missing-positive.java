@@ -13,6 +13,7 @@ class Solution {
                 int correctIndex = nums[i] - 1;
 
                 int temp = nums[i];
+                
                 nums[i] = nums[correctIndex];
                 nums[correctIndex] = temp;
             }
