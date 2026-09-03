@@ -5,6 +5,7 @@ class Solution {
 
         // First row
         for (int i = 0; i < n; i++) {
+            
             dp[0][i] = 1;
         }
 
