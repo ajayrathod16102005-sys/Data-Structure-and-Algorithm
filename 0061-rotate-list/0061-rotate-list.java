@@ -7,6 +7,7 @@ class Solution {
 
         // Find length and tail
         int length = 1;
+        
         ListNode tail = head;
 
         while (tail.next != null) {
