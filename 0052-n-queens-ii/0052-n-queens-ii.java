@@ -2,6 +2,7 @@ class Solution {
 
     public int totalNQueens(int n) {
         boolean[] cols = new boolean[n];
+        
         boolean[] diag1 = new boolean[2 * n - 1];
         boolean[] diag2 = new boolean[2 * n - 1];
 
