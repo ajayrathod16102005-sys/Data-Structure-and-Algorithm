@@ -3,6 +3,7 @@ class Solution {
 
         // If either number is 0, result is 0
         if (num1.equals("0") || num2.equals("0")) {
+          
             return "0";
         }
 
