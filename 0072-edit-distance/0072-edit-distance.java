@@ -13,6 +13,7 @@ class Solution {
 
         // Convert empty string to word2[0...j]
         for (int j = 0; j <= n; j++) {
+            
             dp[0][j] = j;
         }
 
