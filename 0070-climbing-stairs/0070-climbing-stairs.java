@@ -5,7 +5,9 @@ class Solution {
             return n;
         }
 
+        
         int prev2 = 1; // ways(1)
+
         int prev1 = 2; // ways(2)
 
         for (int i = 3; i <= n; i++) {
@@ -13,6 +15,7 @@ class Solution {
             int current = prev1 + prev2;
 
             prev2 = prev1;
+            
             prev1 = current;
         }
 
