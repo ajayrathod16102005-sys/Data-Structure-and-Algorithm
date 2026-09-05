@@ -10,6 +10,7 @@ class Solution {
         // Check if first row contains zero
         for (int j = 0; j < n; j++) {
             if (matrix[0][j] == 0) {
+                
                 firstRowZero = true;
                 break;
             }
