@@ -12,6 +12,7 @@ class Solution {
 
             // Ignore empty parts and "."
             if (part.equals("") || part.equals(".")) {
+                
                 continue;
             }
 
