@@ -13,6 +13,7 @@ class Solution {
 
             // Convert 1D index to 2D index
             int row = mid / n;
+
             int col = mid % n;
 
             int value = matrix[row][col];
@@ -22,6 +23,7 @@ class Solution {
             } 
             else if (value < target) {
                 left = mid + 1;
+                
             } 
             else {
                 right = mid - 1;
