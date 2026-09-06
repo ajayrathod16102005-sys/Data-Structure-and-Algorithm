@@ -15,6 +15,7 @@ class Solution {
         }
 
         int currentRow = 0;
+
         boolean goingDown = false;
 
         for (char c : s.toCharArray()) {
@@ -23,6 +24,7 @@ class Solution {
 
             // Change direction at first and last row
             if (currentRow == 0 || currentRow == numRows - 1) {
+                
                 goingDown = !goingDown;
             }
 
