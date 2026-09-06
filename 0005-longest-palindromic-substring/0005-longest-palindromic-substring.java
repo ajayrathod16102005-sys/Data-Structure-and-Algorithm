@@ -2,7 +2,9 @@ class Solution {
 
     public String longestPalindrome(String s) {
 
+        
         if (s.length() < 2)
+
          {
             return s;
         }
@@ -14,6 +16,7 @@ class Solution {
 
             // Odd length palindrome
             int len1 = expand(s, i, i);
+
 
             // Even length palindrome
             int len2 = expand(s, i, i + 1);
