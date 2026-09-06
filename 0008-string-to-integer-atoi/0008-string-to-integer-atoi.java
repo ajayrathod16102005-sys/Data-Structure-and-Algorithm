@@ -21,7 +21,9 @@ class Solution {
         int sign = 1;
 
         if (s.charAt(i) == '+' || s.charAt(i) == '-') {
-            if (s.charAt(i) == '-') {
+            if (s.charAt(i) == '-')
+             {
+              
                 sign = -1;
             }
             i++;
