@@ -17,7 +17,8 @@ class Solution {
 
             // Check negative overflow
             if (rev < Integer.MIN_VALUE / 10 ||
-               (rev == Integer.MIN_VALUE / 10 && digit < -8)) {
+               (rev == Integer.MIN_VALUE / 10 && digit < -8))
+                {
              
                 return 0;
             }
