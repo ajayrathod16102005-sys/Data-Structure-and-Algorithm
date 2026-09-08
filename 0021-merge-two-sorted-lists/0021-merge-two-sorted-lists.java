@@ -3,6 +3,7 @@ class Solution {
 
         // Dummy node
         ListNode dummy = new ListNode(0);
+        
         ListNode current = dummy;
 
         // Compare both lists
