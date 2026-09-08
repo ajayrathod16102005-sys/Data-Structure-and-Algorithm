@@ -16,6 +16,7 @@ class Solution {
 
         // Dummy node to build the answer
         ListNode dummy = new ListNode(0);
+        
         ListNode current = dummy;
 
         // Process the smallest node
