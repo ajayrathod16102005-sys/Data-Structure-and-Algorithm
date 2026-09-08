@@ -17,6 +17,7 @@ class Solution {
 
             // First and second nodes
             ListNode first = prev.next;
+            
             ListNode second = first.next;
 
             // Swap the nodes
