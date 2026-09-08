@@ -15,6 +15,7 @@ class Solution {
 
         // A valid combination is complete
         if (current.length() == 2 * n) {
+            
             result.add(current);
             return;
         }
