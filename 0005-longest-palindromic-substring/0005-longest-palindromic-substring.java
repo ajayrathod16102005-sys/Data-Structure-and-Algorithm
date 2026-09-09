@@ -10,6 +10,7 @@ class Solution {
         }
 
         int start = 0;
+
         int end = 0;
 
         for (int i = 0; i < s.length(); i++) {
@@ -37,7 +38,8 @@ class Solution {
 
         while (left >= 0 &&
                right < s.length() &&
-               s.charAt(left) == s.charAt(right)) {
+               s.charAt(left) == s.charAt(right)) 
+               {
 
             left--;
             right++;
