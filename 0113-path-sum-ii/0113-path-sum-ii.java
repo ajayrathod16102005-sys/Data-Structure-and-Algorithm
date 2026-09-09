@@ -15,7 +15,8 @@ class Solution {
                      List<List<Integer>> result) {
 
         // Empty node
-        if (root == null) {
+        if (root == null)
+         {
             return;
         }
 
