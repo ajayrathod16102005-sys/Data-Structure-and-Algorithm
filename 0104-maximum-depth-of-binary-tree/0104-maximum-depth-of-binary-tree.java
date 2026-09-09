@@ -8,6 +8,7 @@ class Solution {
 
         // Find depth of left and right subtrees
         int leftDepth = maxDepth(root.left);
+        
         int rightDepth = maxDepth(root.right);
 
         // Current node adds 1
