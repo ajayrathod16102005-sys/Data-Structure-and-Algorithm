@@ -7,7 +7,8 @@ class Solution {
     private TreeNode buildTree(int[] nums, int left, int right) {
 
         // No elements
-        if (left > right) {
+        if (left > right)
+         {
             return null;
         }
 
