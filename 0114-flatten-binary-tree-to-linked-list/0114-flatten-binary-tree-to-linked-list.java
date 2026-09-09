@@ -11,7 +11,8 @@ class Solution {
                 // Find the rightmost node of left subtree
                 TreeNode predecessor = current.left;
 
-                while (predecessor.right != null) {
+                while (predecessor.right != null)
+                 {
                     predecessor = predecessor.right;
                 }
 
