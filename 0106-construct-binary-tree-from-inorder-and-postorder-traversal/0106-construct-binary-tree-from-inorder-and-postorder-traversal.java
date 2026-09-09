@@ -9,6 +9,7 @@ class Solution {
 
         // Store value -> index in inorder
         for (int i = 0; i < inorder.length; i++) {
+            
             inorderMap.put(inorder[i], i);
         }
 
