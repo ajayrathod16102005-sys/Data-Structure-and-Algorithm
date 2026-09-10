@@ -8,6 +8,7 @@ class Solution {
 
         // Skip trailing spaces
         while (i >= 0 && s.charAt(i) == ' ') {
+            
             i--;
         }
 
