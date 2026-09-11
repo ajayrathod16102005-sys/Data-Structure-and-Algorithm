@@ -12,6 +12,7 @@ class Solution {
             // Current jump range is finished
             if (i == currentEnd) {
                 jumps++;
+                
                 currentEnd = farthest;
             }
         }
