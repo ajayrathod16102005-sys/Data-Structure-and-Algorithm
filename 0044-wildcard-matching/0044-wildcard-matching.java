@@ -17,9 +17,11 @@ class Solution {
         }
 
         for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
+            for (int j = 1; j <= n; j++)
+             {
 
                 char sc = s.charAt(i - 1);
+                
                 char pc = p.charAt(j - 1);
 
                 // Normal character or '?'
