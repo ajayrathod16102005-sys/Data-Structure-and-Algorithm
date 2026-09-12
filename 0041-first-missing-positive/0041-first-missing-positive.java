@@ -4,7 +4,8 @@ class Solution {
         int n = nums.length;
 
         // Put every number in its correct position
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
+        {
 
             while (nums[i] >= 1 &&
                    nums[i] <= n &&
@@ -18,6 +19,7 @@ class Solution {
                 nums[i] = nums[correctIndex];
                 
                 nums[correctIndex] = temp;
+
             }
         }
 
