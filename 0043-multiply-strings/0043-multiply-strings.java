@@ -8,6 +8,7 @@ class Solution {
         }
 
         int n = num1.length();
+        
         int m = num2.length();
 
         // Maximum possible length of result is n + m
