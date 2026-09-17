@@ -27,7 +27,9 @@ class Solution {
 
             // Find the kth node
             ListNode kth = groupPrev;
+
             for (int i = 0; i < k && kth != null; i++) {
+                
                 kth = kth.next;
             }
 
