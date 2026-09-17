@@ -2,7 +2,10 @@ import java.util.*;
 
 class Solution {
     
-    public boolean isValid(String s) {
+    public boolean isValid(String s)
+    
+    
+     {
 
         Stack<Character> stack = new Stack<>();
 
@@ -15,7 +18,8 @@ class Solution {
 
             // Closing brackets
             else {
-                if (stack.isEmpty()) {
+                if (stack.isEmpty()) 
+                {
                     return false;
                 }
 
