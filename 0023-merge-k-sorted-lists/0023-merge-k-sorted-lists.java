@@ -20,11 +20,13 @@ class Solution {
         ListNode current = dummy;
 
         // Process the smallest node
-        while (!pq.isEmpty()) {
+        while (!pq.isEmpty()) 
+        {
 
             ListNode node = pq.poll();
 
             current.next = node;
+            
             current = current.next;
 
             // Add the next node from the same list
