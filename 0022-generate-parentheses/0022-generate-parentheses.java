@@ -12,12 +12,14 @@ class Solution {
     }
 
     private void backtrack(List<String> result, String current,
-                            int open, int close, int n) {
+                            int open, int close, int n)
+                             {
 
         // A valid combination is complete
         if (current.length() == 2 * n) {
             
             result.add(current);
+            
             return;
         }
 
