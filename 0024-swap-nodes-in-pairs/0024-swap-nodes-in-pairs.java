@@ -22,7 +22,9 @@ class Solution {
 
             // Swap the nodes
             first.next = second.next;
+            
             second.next = first;
+
             prev.next = second;
 
             // Move prev to the end of the swapped pair
