@@ -1,8 +1,10 @@
 import java.util.*;
 
 class Solution {
-    public int maximalRectangle(char[][] matrix) {
-        if (matrix.length == 0 || matrix[0].length == 0) {
+    public int maximalRectangle(char[][] matrix) 
+    {
+        if (matrix.length == 0 || matrix[0].length == 0) 
+        {
             return 0;
         }
 
