@@ -2,7 +2,8 @@ import java.util.*;
 
 class Solution {
 
-    public List<List<Integer>> subsetsWithDup(int[] nums) {
+    public List<List<Integer>> subsetsWithDup(int[] nums) 
+    {
 
         List<List<Integer>> result = new ArrayList<>();
 
@@ -22,7 +23,8 @@ class Solution {
         // Add current subset
         result.add(new ArrayList<>(current));
 
-        for (int i = start; i < nums.length; i++) {
+        for (int i = start; i < nums.length; i++)
+         {
 
             // Skip duplicate values at the same level
             if (i > start && nums[i] == nums[i - 1]) {
@@ -37,6 +39,7 @@ class Solution {
 
             // Undo choice
             current.remove(current.size() - 1);
+      
         }
     }
 }
