@@ -4,13 +4,16 @@ class Solution {
 
         // Dummy nodes for two partitions
         ListNode lessDummy = new ListNode(0);
+
         ListNode greaterDummy = new ListNode(0);
 
         ListNode less = lessDummy;
+
         ListNode greater = greaterDummy;
 
         // Traverse the original list
         while (head != null) {
+            
 
             if (head.val < x) {
                 // Add node to less list
