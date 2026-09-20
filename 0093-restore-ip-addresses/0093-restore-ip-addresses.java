@@ -33,13 +33,16 @@ class Solution {
             String part = s.substring(index, index + len);
 
             // Leading zero is not allowed
-            if (part.length() > 1 && part.charAt(0) == '0') {
+            if (part.length() > 1 && part.charAt(0) == '0') 
+            {
+                
                 break;
             }
 
             // Value must be <= 255
             if (Integer.parseInt(part) > 255) {
                 break;
+
             }
 
             // Choose this part
