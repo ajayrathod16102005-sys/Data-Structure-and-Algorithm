@@ -13,16 +13,19 @@ class Solution {
             // Go as far left as possible
             while (current != null) {
                 stack.push(current);
+                
                 current = current.left;
             }
 
             // Process the node
            
             current = stack.pop();
+
             result.add(current.val);
 
             // Move to right subtree
             current = current.right;
+
         }
         
 
