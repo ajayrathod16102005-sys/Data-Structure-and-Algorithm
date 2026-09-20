@@ -3,6 +3,7 @@ import java.util.*;
 class Solution {
 
     public List<List<Integer>> subsetsWithDup(int[] nums) 
+   
     {
 
         List<List<Integer>> result = new ArrayList<>();
@@ -24,6 +25,7 @@ class Solution {
         result.add(new ArrayList<>(current));
 
         for (int i = start; i < nums.length; i++)
+        
          {
 
             // Skip duplicate values at the same level
