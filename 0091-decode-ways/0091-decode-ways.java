@@ -13,7 +13,8 @@ class Solution {
         // If first character is '0', it cannot be decoded
         dp[1] = (s.charAt(0) == '0') ? 0 : 1;
 
-        for (int i = 2; i <= n; i++) {
+        for (int i = 2; i <= n; i++)
+         {
 
             // Take one digit
             char one = s.charAt(i - 1);
@@ -26,7 +27,8 @@ class Solution {
             // Take two digits
             int two = Integer.parseInt(s.substring(i - 2, i));
 
-            if (two >= 10 && two <= 26) {
+            if (two >= 10 && two <= 26) 
+            {
                 dp[i] += dp[i - 2];
             }
         }
