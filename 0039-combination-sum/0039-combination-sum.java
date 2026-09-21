@@ -13,7 +13,8 @@ class Solution {
 
     private void backtrack(int[] candidates, int target, int start,
                             List<Integer> current,
-                            List<List<Integer>> result) {
+                            List<List<Integer>> result) 
+                            {
 
         // Target achieved
         if (target == 0) {
@@ -21,10 +22,12 @@ class Solution {
             result.add(new ArrayList<>(current));
             
             return;
+       
         }
 
         // Try candidates
-        for (int i = start; i < candidates.length; i++) {
+        for (int i = start; i < candidates.length; i++)
+         {
 
             // Candidate is too large
             if (candidates[i] > target) {
