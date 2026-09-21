@@ -18,7 +18,9 @@ class Solution {
             int mid = left + (right - left) / 2;
 
             if (nums[mid] == target) {
+
                 ans = mid;
+                
                 right = mid - 1;   // Search on left side
             } 
             else if (nums[mid] < target) {
