@@ -26,10 +26,12 @@ class Solution {
             return;
         }
 
-        for (int i = start; i < candidates.length; i++) {
+        for (int i = start; i < candidates.length; i++)
+         {
 
             // Skip duplicate values at the same recursion level
-            if (i > start && candidates[i] == candidates[i - 1]) {
+            if (i > start && candidates[i] == candidates[i - 1])
+             {
                 continue;
             }
 
