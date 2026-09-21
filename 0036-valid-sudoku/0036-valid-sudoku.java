@@ -3,6 +3,7 @@ class Solution {
 
         boolean[][] rows = new boolean[9][9];
         boolean[][] cols = new boolean[9][9];
+        
         boolean[][] boxes = new boolean[9][9];
 
         for (int row = 0; row < 9; row++) {
