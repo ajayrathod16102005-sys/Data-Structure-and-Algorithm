@@ -1,10 +1,12 @@
 import java.util.*;
 
 class Solution {
-    public List<List<Integer>> levelOrder(TreeNode root) {
+    public List<List<Integer>> levelOrder(TreeNode root)
+     {
         List<List<Integer>> result = new ArrayList<>();
 
-        if (root == null) {
+        if (root == null)
+         {
             return result;
         }
 
