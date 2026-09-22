@@ -1,7 +1,11 @@
+
 class Solution {
+
     TreeNode first = null;
+    
     TreeNode second = null;
     TreeNode prev = null;
+
 
     public void recoverTree(TreeNode root) {
         inorder(root);
