@@ -13,9 +13,12 @@ class Solution {
         dp[0][0] = true;
 
         // Using only s1
-        for (int i = 1; i <= n; i++) {
+        for (int i = 1; i <= n; i++)
+         {
+
             dp[i][0] = dp[i - 1][0] &&
                        s1.charAt(i - 1) == s3.charAt(i - 1);
+ 
         }
 
         // Using only s2
