@@ -11,13 +11,16 @@ class Solution {
     }
 
     private void backtrack(String s, int index, int parts,
-                            String current, List<String> result) {
+                            String current, List<String> result)
+                             {
 
         // If 4 parts are created
         if (parts == 4) {
             // All digits must be used
-            if (index == s.length()) {
+            if (index == s.length()) 
+            {
                 result.add(current.substring(0, current.length() - 1));
+                
             }
             return;
         }
