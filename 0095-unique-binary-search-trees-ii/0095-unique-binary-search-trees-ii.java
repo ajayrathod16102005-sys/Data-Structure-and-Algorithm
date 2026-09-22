@@ -16,11 +16,14 @@
 
 class Solution {
 
-    public List<TreeNode> generateTrees(int n) {
+    public List<TreeNode> generateTrees(int n)
+     {
         return buildTrees(1, n);
     }
 
-    private List<TreeNode> buildTrees(int start, int end) {
+    private List<TreeNode> buildTrees(int start, int end) 
+    {
+
 
         List<TreeNode> result = new ArrayList<>();
 
