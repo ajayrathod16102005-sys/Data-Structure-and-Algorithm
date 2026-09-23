@@ -3,11 +3,13 @@ class Solution {
 
         return isMirror(root.left, root.right);
     }
+    
 
     private boolean isMirror(TreeNode left, TreeNode right)
      {
         // Both are null
-        if (left == null && right == null) {
+        if (left == null && right == null) 
+        {
             return true;
         }
 
