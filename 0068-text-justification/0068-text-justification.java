@@ -1,4 +1,6 @@
 class Solution {
+
+
     public List<String> fullJustify(String[] words, int maxWidth)
      {
 
@@ -9,6 +11,7 @@ class Solution {
         while (i < words.length) {
 
             int j = i;
+            
             int lineLength = 0;
 
             // Find words that fit in the current line
