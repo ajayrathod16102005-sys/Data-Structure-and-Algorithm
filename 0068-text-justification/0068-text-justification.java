@@ -1,7 +1,9 @@
 class Solution {
-    public List<String> fullJustify(String[] words, int maxWidth) {
+    public List<String> fullJustify(String[] words, int maxWidth)
+     {
 
         List<String> result = new ArrayList<>();
+
         int i = 0;
 
         while (i < words.length) {
