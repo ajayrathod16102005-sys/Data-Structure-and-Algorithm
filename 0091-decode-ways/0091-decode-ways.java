@@ -10,8 +10,10 @@ class Solution {
         // Empty string has 1 way
         dp[0] = 1;
 
+
         // If first character is '0', it cannot be decoded
         dp[1] = (s.charAt(0) == '0') ? 0 : 1;
+
 
         for (int i = 2; i <= n; i++)
          {
@@ -19,7 +21,8 @@ class Solution {
             // Take one digit
             char one = s.charAt(i - 1);
 
-            if (one >= '1' && one <= '9') {
+            if (one >= '1' && one <= '9') 
+            {
                 
                 dp[i] += dp[i - 1];
             }
