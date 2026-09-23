@@ -24,7 +24,9 @@ class Solution {
             ListNode next = curr.next;
 
             curr.next = next.next;
+
             next.next = prev.next;
+            
             prev.next = next;
         }
 
