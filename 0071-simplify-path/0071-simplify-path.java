@@ -1,7 +1,9 @@
 import java.util.*;
 
 class Solution {
-    public String simplifyPath(String path) {
+
+    public String simplifyPath(String path)
+     {
 
         Stack<String> stack = new Stack<>();
 
