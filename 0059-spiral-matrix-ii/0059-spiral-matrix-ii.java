@@ -15,8 +15,9 @@ class Solution {
             // Left -> Right
             for (int i = left; i <= right; i++)
              {
-                matrix[top][i] = num++;
-            }
+                  matrix[top][i] = num++;
+            } 
+            
             top++;
 
             // Top -> Bottom
