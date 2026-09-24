@@ -15,12 +15,14 @@ class Solution {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
 
-        while (!queue.isEmpty()) {
+        while (!queue.isEmpty()) 
+        {
             int size = queue.size();
 
             List<Integer> level = new ArrayList<>();
 
-            for (int i = 0; i < size; i++) {
+            for (int i = 0; i < size; i++)
+             {
                 TreeNode current = queue.poll();
 
                 level.add(current.val);
