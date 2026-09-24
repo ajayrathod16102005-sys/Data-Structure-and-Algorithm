@@ -14,7 +14,8 @@ class Solution {
             for (int j = 0; j < n; j++) {
 
                 // If current cell is an obstacle
-                if (obstacleGrid[i][j] == 1) {
+                if (obstacleGrid[i][j] == 1) 
+                {
                     dp[j] = 0;
                 }
                 else if (j > 0) {
