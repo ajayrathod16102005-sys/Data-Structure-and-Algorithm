@@ -4,7 +4,8 @@ class Solution {
         int n = matrix.length;
 
         // Step 1: Transpose the matrix
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
+         {
             for (int j = i + 1; j < n; j++) {
 
                 int temp = matrix[i][j];
