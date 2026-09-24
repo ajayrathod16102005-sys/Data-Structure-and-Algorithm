@@ -22,11 +22,14 @@ class Solution {
             return head;
         }
 
+
         // Make the list circular
         tail.next = head;
 
         // Find new tail
         int steps = length - k - 1;
+
+        
         ListNode newTail = head;
 
         while (steps-- > 0) {
