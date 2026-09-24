@@ -21,6 +21,8 @@ class Solution {
             } 
             // Non-overlapping interval
             else {
+
+                
                 result.add(new int[]{start, end});
 
                 start = intervals[i][0];
