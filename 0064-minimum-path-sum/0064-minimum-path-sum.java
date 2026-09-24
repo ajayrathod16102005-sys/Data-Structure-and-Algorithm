@@ -16,6 +16,7 @@ class Solution {
 
         // First column
         for (int i = 1; i < m; i++) {
+            
             dp[i][0] = dp[i - 1][0] + grid[i][0];
         }
 
