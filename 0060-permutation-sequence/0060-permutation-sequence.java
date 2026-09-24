@@ -15,9 +15,12 @@ class Solution {
 
         StringBuilder ans = new StringBuilder();
 
-        for (int i = n; i >= 1; i--) {
+        for (int i = n; i >= 1; i--)
+         {
             int index = k / factorial[i - 1];
+            
             ans.append(numbers.get(index));
+
             numbers.remove(index);
             k %= factorial[i - 1];
         }
