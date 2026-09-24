@@ -11,11 +11,15 @@ class Solution {
             }
 
             // Update the farthest reachable index
+
+
             farthest = Math.max(farthest, i + nums[i]);
 
             // If we can reach or pass the last index
             if (farthest >= nums.length - 1)
              {
+
+                
                 return true;
             }
         }
