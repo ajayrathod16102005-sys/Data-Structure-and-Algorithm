@@ -14,7 +14,9 @@ class Solution {
         }
 
         // One is null, other is not
-        if (left == null || right == null) {
+        if (left == null || right == null) 
+        {
+
             return false;
         }
 
