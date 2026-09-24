@@ -17,7 +17,8 @@ class Solution {
     }
 
     private void inorder(TreeNode root) {
-        if (root == null) {
+        if (root == null)
+         {
             return;
         }
 
