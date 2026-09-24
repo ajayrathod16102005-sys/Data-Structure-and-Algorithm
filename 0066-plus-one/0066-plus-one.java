@@ -13,6 +13,7 @@ class Solution {
 
         // All digits were 9
         int[] result = new int[digits.length + 1];
+        
         result[0] = 1;
 
         return result;
