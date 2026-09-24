@@ -16,6 +16,7 @@ class Solution {
             } else if (ch == '.') {
 
                 if (seenDot || seenExponent)
+                
                     return false;
 
                 seenDot = true;
