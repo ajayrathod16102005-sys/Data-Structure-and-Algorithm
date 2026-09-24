@@ -12,7 +12,9 @@ class Solution {
     private int backtrack(int row, int n,
                            boolean[] cols,
                            boolean[] diag1,
-                           boolean[] diag2) {
+                           boolean[] diag2)
+                           
+                            {
 
         // All rows successfully filled
         if (row == n) {
