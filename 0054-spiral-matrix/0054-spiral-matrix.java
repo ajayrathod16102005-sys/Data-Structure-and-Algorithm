@@ -2,6 +2,7 @@ import java.util.*;
 
 class Solution {
 
+
     public List<Integer> spiralOrder(int[][] matrix) {
 
         
@@ -21,6 +22,8 @@ class Solution {
                 result.add(matrix[top][col]);
             }
             top++;
+
+            
 
             // 2. Top -> Bottom
             for (int row = top; row <= bottom; row++) {
