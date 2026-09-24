@@ -2,14 +2,17 @@ import java.util.*;
 
 class Solution {
 
-    public List<List<String>> solveNQueens(int n) {
+
+    public List<List<String>> solveNQueens(int n) 
+    {
        
         List<List<String>> result = new ArrayList<>();
 
         char[][] board = new char[n][n];
 
         // Initially, all cells are empty
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
+         {
             Arrays.fill(board[i], '.');
         }
 
