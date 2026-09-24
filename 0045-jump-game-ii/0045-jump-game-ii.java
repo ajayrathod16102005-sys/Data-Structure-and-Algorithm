@@ -1,6 +1,9 @@
 class Solution {
-    public int jump(int[] nums) {
+
+    public int jump(int[] nums)
+     {
         int jumps = 0;
+        
         int currentEnd = 0;
         int farthest = 0;
 
