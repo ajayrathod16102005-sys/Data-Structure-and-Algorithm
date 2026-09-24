@@ -1,5 +1,8 @@
 class Solution {
-    public int maxSubArray(int[] nums) {
+
+    public int maxSubArray(int[] nums) 
+    
+    {
 
         int currentSum = nums[0];
         
