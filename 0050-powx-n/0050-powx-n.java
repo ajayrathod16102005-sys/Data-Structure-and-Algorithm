@@ -1,5 +1,7 @@
 class Solution {
-    public double myPow(double x, int n) {
+
+    public double myPow(double x, int n)
+     {
        
         long power = n;  // long is important for Integer.MIN_VALUE
 
