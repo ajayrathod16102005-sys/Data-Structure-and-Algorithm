@@ -1,6 +1,9 @@
 class Solution {
-    public int[][] insert(int[][] intervals, int[] newInterval) {
+
+    public int[][] insert(int[][] intervals, int[] newInterval)
+     {
         List<int[]> result = new ArrayList<>();
+        
         int i = 0;
         int n = intervals.length;
 
