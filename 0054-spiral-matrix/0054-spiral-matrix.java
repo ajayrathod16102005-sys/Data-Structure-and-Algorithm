@@ -1,9 +1,7 @@
 import java.util.*;
 
-class Solution {
-
-
-    public List<Integer> spiralOrder(int[][] matrix) {
+class Solution 
+{    public List<Integer> spiralOrder(int[][] matrix) {
 
         
         List<Integer> result = new ArrayList<>();
