@@ -1,7 +1,8 @@
 import java.util.*;
 
 class Solution {
-    public int[][] merge(int[][] intervals) {
+    public int[][] merge(int[][] intervals) 
+    {
 
         // Sort by start time
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
