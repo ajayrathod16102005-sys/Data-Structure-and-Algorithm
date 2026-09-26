@@ -13,10 +13,12 @@ class Solution
         int left = 0;
         int right = matrix[0].length - 1;
 
-        while (top <= bottom && left <= right) {
+        while (top <= bottom && left <= right)
+         {
 
             // 1. Left -> Right
-            for (int col = left; col <= right; col++) {
+            for (int col = left; col <= right; col++)
+             {
                 result.add(matrix[top][col]);
             }
             top++;
