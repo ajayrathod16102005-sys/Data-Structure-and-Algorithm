@@ -17,7 +17,6 @@ class Solution {
 
             // Overlapping intervals
             if (intervals[i][0] <= end) {
-               
                 end = Math.max(end, intervals[i][1]);
             } 
             // Non-overlapping interval
