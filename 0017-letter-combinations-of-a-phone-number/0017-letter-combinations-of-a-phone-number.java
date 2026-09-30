@@ -1,15 +1,14 @@
 import java.util.*;
 
 class Solution {
-    public List<String> letterCombinations(String digits) {
-        
+
+    public List<String> letterCombinations(String digits) {   
         List<String> result = new ArrayList<>();
-
-
-
-        if (digits.length() == 0) {
+        if (digits.length() == 0)
+         {
+            
             return result;
-        }
+          }
 
         String[] phone = {
             "",     "",     "abc",  "def",
