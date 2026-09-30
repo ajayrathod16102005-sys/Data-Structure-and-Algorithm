@@ -1,15 +1,14 @@
 import java.util.*;
 
 class Solution {
+
     public List<List<Integer>> fourSum(int[] nums, int target) {
         
-        List<List<Integer>> result = new ArrayList<>();
-
+      List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(nums);
         int n = nums.length;
 
         for (int i = 0; i < n - 3; i++) {
-
             // Skip duplicate first elements
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
