@@ -1,6 +1,8 @@
 class Solution {
-    public int firstMissingPositive(int[] nums) {
 
+
+
+    public int firstMissingPositive(int[] nums) {
         int n = nums.length;
 
         // Put every number in its correct position
