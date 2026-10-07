@@ -1,14 +1,10 @@
 class Solution {
     public int maxProfit(int[] prices)
      {
-
-        int buy1 = Integer.MIN_VALUE;
-        
+        int buy1 = Integer.MIN_VALUE; 
         int sell1 = 0;
-
         int buy2 = Integer.MIN_VALUE;
         int sell2 = 0;
-
         for (int price : prices) {
 
             // First transaction
