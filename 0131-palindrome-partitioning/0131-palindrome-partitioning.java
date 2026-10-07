@@ -12,8 +12,10 @@ class Solution {
                            List<List<String>> result) {
 
         // Reached the end
-        if (start == s.length()) {
+        if (start == s.length())
+         {
             result.add(new ArrayList<>(current));
+            
             return;
         }
 
