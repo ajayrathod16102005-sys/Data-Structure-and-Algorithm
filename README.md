@@ -178,6 +178,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0174-dungeon-game) |
 ## Array
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+| [0174-dungeon-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0174-dungeon-game) |
 | [0204-count-primes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
@@ -307,6 +309,7 @@
 | [0079-word-search](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0174-dungeon-game) |
 ## Sorting
 |  |
 | ------- |
