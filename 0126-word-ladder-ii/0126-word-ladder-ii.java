@@ -2,20 +2,19 @@ import java.util.*;
 
 class Solution {
 
+
     public List<List<String>> findLadders(
             String beginWord,
             String endWord,
-            List<String> wordList) {
+            List<String> wordList)
+             {
 
         List<List<String>> result = new ArrayList<>();
-
         Set<String> wordSet = new HashSet<>(wordList);
-
         // If endWord is not present, no answer is possible
         if (!wordSet.contains(endWord)) {
             return result;
         }
-
         // parent.get(word) = all previous words that can reach word
         // through a shortest path.
         Map<String, List<String>> parent = new HashMap<>();
