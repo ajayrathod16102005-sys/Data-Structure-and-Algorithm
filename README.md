@@ -16,6 +16,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 ## Math
@@ -74,6 +75,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
@@ -533,6 +535,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -584,4 +587,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
