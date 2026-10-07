@@ -7,7 +7,9 @@ class Solution {
 
         // Build palindrome table
         for (int end = 0; end < n; end++) {
-            for (int start = 0; start <= end; start++) {
+
+            for (int start = 0; start <= end; start++)
+             {
 
                 if (s.charAt(start) == s.charAt(end) &&
                     (end - start <= 2 || pal[start + 1][end - 1])) {
