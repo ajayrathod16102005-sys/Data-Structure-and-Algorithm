@@ -16,8 +16,11 @@
 
 class Solution {
 
-    public int sumNumbers(TreeNode root) {
+    public int sumNumbers(TreeNode root)
+     {
+
         return dfs(root, 0);
+        
     }
 
     private int dfs(TreeNode node, int currentNumber) {
