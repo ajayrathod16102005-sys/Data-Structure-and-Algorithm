@@ -39,6 +39,7 @@
 | [0089-gray-code](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 ## Recursion
 |  |
