@@ -20,9 +20,13 @@ class Solution {
 
                 dp[nodes] += left * right;
 
+           
             }
+
         }
 
+
         return dp[n];
+        
     }
 }
