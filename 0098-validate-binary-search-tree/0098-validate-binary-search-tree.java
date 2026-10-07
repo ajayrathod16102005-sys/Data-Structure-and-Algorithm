@@ -7,18 +7,26 @@ class Solution {
     private boolean check(TreeNode root, long min, long max) {
 
         
-        if (root == null) {
+        if (root == null) 
+        {
+
             return true;
+
         }
 
         // Current node must be within the valid range
-        if (root.val <= min || root.val >= max) {
+        if (root.val <= min || root.val >= max)
+         {
+
             return false;
+
         }
 
         // Left subtree: values must be smaller
         // Right subtree: values must be greater
         return check(root.left, min, root.val) &&
                check(root.right, root.val, max);
+
     }
+
 }
