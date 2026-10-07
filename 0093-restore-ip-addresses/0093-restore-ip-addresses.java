@@ -1,17 +1,16 @@
 import java.util.*;
 
 class Solution {
-
-    public List<String> restoreIpAddresses(String s) {
+    public List<String> restoreIpAddresses(String s)
+     {
         List<String> result = new ArrayList<>();
-
         backtrack(s, 0, 0, "", result);
-
         return result;
     }
 
     private void backtrack(String s, int index, int parts,
                             String current, List<String> result)
+                             
                              {
 
         // If 4 parts are created
