@@ -40,6 +40,7 @@
 | [0070-climbing-stairs](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
@@ -77,6 +78,7 @@
 | [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
@@ -241,6 +243,7 @@
 | [0137-single-number-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -593,4 +596,16 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ajayrathod16102005-sys/Data-Structure-and-Algorithm/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
