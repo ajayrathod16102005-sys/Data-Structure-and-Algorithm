@@ -22,13 +22,15 @@ class Solution {
         }
 
         // Using only s2
-        for (int j = 1; j <= m; j++) {
+        for (int j = 1; j <= m; j++)
+         {
             dp[0][j] = dp[0][j - 1] &&
                        s2.charAt(j - 1) == s3.charAt(j - 1);
         }
 
         // Fill DP table
-        for (int i = 1; i <= n; i++) {
+        for (int i = 1; i <= n; i++)
+         {
             for (int j = 1; j <= m; j++) {
 
                 boolean fromS1 = dp[i - 1][j] &&
