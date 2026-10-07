@@ -12,6 +12,7 @@ class Solution {
 
         for (int j = 0; j < n; j++) {
             dfs(board, 0, j);
+            
             dfs(board, m - 1, j);
         }
 
