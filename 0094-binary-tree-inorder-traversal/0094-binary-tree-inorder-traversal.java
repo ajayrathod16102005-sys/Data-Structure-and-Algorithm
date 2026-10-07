@@ -1,7 +1,9 @@
 import java.util.*;
 
-class Solution {
-    public List<Integer> inorderTraversal(TreeNode root) {
+class Solution 
+{
+    public List<Integer> inorderTraversal(TreeNode root)
+     {
 
         List<Integer> result = new ArrayList<>();
 
@@ -14,9 +16,11 @@ class Solution {
 
             // Go as far left as possible
             while (current != null) 
+          
             {
                 stack.push(current);
                 
+            
                 current = current.left;
             }
 
