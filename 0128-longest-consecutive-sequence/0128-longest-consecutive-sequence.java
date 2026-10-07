@@ -3,17 +3,13 @@ import java.util.*;
 class Solution {
     public int longestConsecutive(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
-
         // Add all numbers to HashSet
         for (int num : nums) {
             set.add(num);
         }
-
         int longest = 0;
-
         // Check every number
         for (int num : set) {
-
             // num is the start of a sequence
             if (!set.contains(num - 1)) {
 
