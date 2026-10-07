@@ -14,11 +14,14 @@
  * }
  */
 
-class Solution {
+class Solution 
+{
 
     public List<TreeNode> generateTrees(int n)
      {
+
         return buildTrees(1, n);
+        
     }
 
     private List<TreeNode> buildTrees(int start, int end) 
