@@ -5,7 +5,8 @@ class Solution {
 
         for (int num : nums) {
 
-            if (k < 2 || num != nums[k - 2]) {
+            if (k < 2 || num != nums[k - 2])
+             {
                 nums[k] = num;
                 k++;
             }
