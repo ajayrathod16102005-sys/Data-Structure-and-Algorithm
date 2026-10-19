@@ -4,6 +4,8 @@ class Solution {
     
     {
 
+
+
         int currentSum = nums[0];
         
         int maxSum = nums[0];
@@ -17,5 +19,6 @@ class Solution {
         }
 
         return maxSum;
+        
     }
 }
