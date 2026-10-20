@@ -8,10 +8,13 @@ class Solution {
        
         List<List<String>> result = new ArrayList<>();
 
+
         char[][] board = new char[n][n];
 
         // Initially, all cells are empty
+        
         for (int i = 0; i < n; i++)
+        
          {
             Arrays.fill(board[i], '.');
         }
