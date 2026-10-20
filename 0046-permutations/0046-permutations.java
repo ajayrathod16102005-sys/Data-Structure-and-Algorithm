@@ -1,6 +1,7 @@
 import java.util.*;
 
-class Solution {
+class Solution
+ {
 
     public List<List<Integer>> permute(int[] nums) {
 
@@ -11,9 +12,11 @@ class Solution {
         backtrack(nums, used, new ArrayList<>(), result);
 
         return result;
+
     }
 
     private void backtrack(
+
             int[] nums,
             boolean[] used,
             List<Integer> current,
