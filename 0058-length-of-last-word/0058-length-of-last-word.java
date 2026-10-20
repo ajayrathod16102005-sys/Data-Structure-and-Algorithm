@@ -13,6 +13,8 @@ class Solution {
          {
             
             i--;
+
+            
         }
 
         // Count characters of the last word
