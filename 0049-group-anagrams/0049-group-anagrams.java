@@ -25,6 +25,8 @@ class Solution
 
             // Add original string
             map.get(key).add(str);
+
+            
         }
 
         return new ArrayList<>(map.values());
