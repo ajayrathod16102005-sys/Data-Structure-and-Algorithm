@@ -16,11 +16,13 @@ class Solution {
 
             // Compare characters ignoring case
             if (Character.toLowerCase(s.charAt(left)) !=
-                Character.toLowerCase(s.charAt(right))) {
+                Character.toLowerCase(s.charAt(right))) 
+                {
                 return false;
             }
 
             left++;
+
             right--;
         }
 
