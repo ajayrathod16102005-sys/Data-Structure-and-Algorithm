@@ -1,4 +1,5 @@
 class Solution {
+
     public String getPermutation(int n, int k)
      {
         List<Integer> numbers = new ArrayList<>();
@@ -6,6 +7,7 @@ class Solution {
 
         factorial[0] = 1;
         for (int i = 1; i <= n; i++) {
+
             factorial[i]  = factorial[i - 1] * i;
            
             numbers.add(i);
@@ -22,6 +24,7 @@ class Solution {
             ans.append(numbers.get(index));
 
             numbers.remove(index);
+            
             k %= factorial[i - 1];
         }
 
