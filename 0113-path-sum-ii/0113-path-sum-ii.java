@@ -12,7 +12,8 @@ class Solution {
 
     private void dfs(TreeNode root, int targetSum,
                      List<Integer> path,
-                     List<List<Integer>> result) {
+                     List<List<Integer>> result) 
+                     {
 
         // Empty node
         if (root == null)
