@@ -12,7 +12,9 @@ class Solution {
         List<List<String>> result = new ArrayList<>();
         Set<String> wordSet = new HashSet<>(wordList);
         // If endWord is not present, no answer is possible
-        if (!wordSet.contains(endWord)) {
+        if (!wordSet.contains(endWord))
+         {
+            
             return result;
         }
         // parent.get(word) = all previous words that can reach word
