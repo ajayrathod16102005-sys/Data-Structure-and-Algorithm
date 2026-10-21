@@ -16,8 +16,8 @@ class Solution {
 
         // Current node must be within the valid range
         if (root.val <= min || root.val >= max)
+         
          {
-
             return false;
 
         }
