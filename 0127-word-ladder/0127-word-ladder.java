@@ -13,12 +13,14 @@ class Solution {
 
         // BFS queue
         Queue<String> queue = new LinkedList<>();
+
         queue.offer(beginWord);
 
         // Number of words in the transformation sequence
         int level = 1;
 
-        while (!queue.isEmpty()) {
+        while (!queue.isEmpty()) 
+        {
 
             int size = queue.size();
 
