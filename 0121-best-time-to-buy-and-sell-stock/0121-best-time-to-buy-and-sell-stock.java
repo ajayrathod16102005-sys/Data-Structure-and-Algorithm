@@ -3,7 +3,9 @@ class Solution {
     {
 
         int minPrice = Integer.MAX_VALUE;  
+
         int maxProfit = 0;
+        
         for (int price : prices)
          {
             // Find the minimum buying price
