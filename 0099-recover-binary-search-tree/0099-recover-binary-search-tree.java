@@ -20,7 +20,8 @@ class Solution {
         second.val = temp;
     }
 
-    private void inorder(TreeNode root) {
+    private void inorder(TreeNode root)
+     {
         if (root == null)
          {
             return;
