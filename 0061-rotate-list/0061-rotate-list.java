@@ -26,6 +26,8 @@ class Solution {
         // Make the list circular
         tail.next = head;
 
+
+
         // Find new tail
         int steps = length - k - 1;
 
