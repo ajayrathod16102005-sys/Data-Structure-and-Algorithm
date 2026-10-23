@@ -1,9 +1,11 @@
 class Solution {
-    public ListNode deleteDuplicates(ListNode head) {
+    public ListNode deleteDuplicates(ListNode head)
+     {
 
         ListNode current = head;
 
-        while (current != null && current.next != null) {
+        while (current != null && current.next != null)
+         {
 
             if (current.val == current.next.val) {
                 // Skip duplicate node
