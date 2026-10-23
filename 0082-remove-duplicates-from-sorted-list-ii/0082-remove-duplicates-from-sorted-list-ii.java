@@ -1,5 +1,7 @@
 class Solution {
-    public ListNode deleteDuplicates(ListNode head) {
+
+    public ListNode deleteDuplicates(ListNode head)
+     {
         ListNode dummy = new ListNode(0);
         dummy.next = head;
 
