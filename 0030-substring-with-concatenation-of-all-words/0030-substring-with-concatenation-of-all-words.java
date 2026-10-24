@@ -1,15 +1,19 @@
 import java.util.*;
 
 class Solution {
-    public List<Integer> findSubstring(String s, String[] words) {
+
+    public List<Integer> findSubstring(String s, String[] words)
+     {
         List<Integer> result = new ArrayList<>();
 
         int wordLen = words[0].length();
         
         int wordCount = words.length;
+
         int totalLen = wordLen * wordCount;
 
-        if (s.length() < totalLen) {
+        if (s.length() < totalLen) 
+        {
             return result;
         }
 
