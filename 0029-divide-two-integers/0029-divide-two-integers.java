@@ -1,13 +1,11 @@
 class Solution {
+
     public int divide(int dividend, int divisor) {
 
         // Overflow case
         if (dividend == Integer.MIN_VALUE && divisor == -1)
          {
-
-            return Integer.MAX_VALUE;
-
-            
+            return Integer.MAX_VALUE;     
         }
 
         // Determine the sign of the answer
@@ -21,8 +19,8 @@ class Solution {
         long quotient = 0;
 
         // Try powers of 2 from large to small
-        for (int i = 31; i >= 0; i--) {
-
+        for (int i = 31; i >= 0; i--)
+        {
             if ((b << i) <= a) {
                 a -= (b << i);
                 quotient += (1L << i);
