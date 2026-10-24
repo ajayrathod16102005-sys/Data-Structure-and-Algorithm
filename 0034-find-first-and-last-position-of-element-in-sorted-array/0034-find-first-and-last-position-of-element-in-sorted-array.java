@@ -9,8 +9,10 @@ class Solution {
 
 
     // Find first occurrence
-    private int findFirst(int[] nums, int target) {
+    private int findFirst(int[] nums, int target) 
+    {
         int left = 0;
+        
         int right = nums.length - 1;
         int ans = -1;
 
