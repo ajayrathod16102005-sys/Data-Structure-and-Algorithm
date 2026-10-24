@@ -12,9 +12,11 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
 
-            if (s.charAt(i) == '(') {
+            if (s.charAt(i) == '(')
+             {
                 // Store index of '('
                 stack.push(i);
+                
             } 
             else {
                 // Remove matching '('
