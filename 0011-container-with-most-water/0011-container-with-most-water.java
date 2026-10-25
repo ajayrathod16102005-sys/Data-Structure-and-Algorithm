@@ -15,9 +15,12 @@ class Solution {
             maxArea = Math.max(maxArea, area);
 
             // Move the pointer with the smaller height
-            if (height[left] < height[right]) {
+            if (height[left] < height[right])
+             {
                 left++;
-            } else {
+
+            } else
+             {
                 right--;
             }
         }
