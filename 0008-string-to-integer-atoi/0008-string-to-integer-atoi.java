@@ -13,19 +13,23 @@ class Solution {
         }
 
         // If string is empty after spaces
-        if (i == n) {
+        if (i == n)
+         {
+
             return 0;
         }
 
         // 2. Check sign
         int sign = 1;
 
-        if (s.charAt(i) == '+' || s.charAt(i) == '-') {
+        if (s.charAt(i) == '+' || s.charAt(i) == '-') 
+        {
             if (s.charAt(i) == '-')
              {
               
                 sign = -1;
             }
+            
             i++;
         }
 
