@@ -13,15 +13,21 @@ class Solution {
         for (String part : parts) {
 
             // Ignore empty parts and "."
-            if (part.equals("") || part.equals(".")) {
+            if (part.equals("") || part.equals("."))
+             {
                 
                 continue;
+
+
             }
 
             // Go to parent directory
-            if (part.equals("..")) {
+            if (part.equals("..")) 
+            
+            {
 
-                if (!stack.isEmpty()) {
+                if (!stack.isEmpty())
+                 {
                     stack.pop();
                 }
 
