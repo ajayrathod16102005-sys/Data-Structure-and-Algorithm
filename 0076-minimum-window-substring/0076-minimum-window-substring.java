@@ -17,6 +17,7 @@ class Solution {
         int count = t.length();
 
         int minLen = Integer.MAX_VALUE;
+        
         int start = 0;
 
         while (right < s.length()) {
