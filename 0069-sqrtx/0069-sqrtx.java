@@ -17,9 +17,13 @@ class Solution {
             int mid = left + (right - left) / 2;
 
             // Use division to avoid integer overflow
-            if (mid <= x / mid) {
+            if (mid <= x / mid)
+            
+             {
                 answer = mid;
+
                 left = mid + 1;
+                
             } else {
                 right = mid - 1;
             }
