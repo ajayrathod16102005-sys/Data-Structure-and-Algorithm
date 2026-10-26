@@ -15,8 +15,10 @@ class Solution {
             return;
         }
 
-        for (int i = start; i <= n; i++) {
-            current.add(i);              // Choose
+        for (int i = start; i <= n; i++) 
+        {
+            current.add(i);
+                          // Choose
             backtrack(i + 1, n, k, current); // Explore
             current.remove(current.size() - 1); // Unchoose (Backtrack)
         }
