@@ -2,7 +2,9 @@ class Solution {
 
 
 
-    public int firstMissingPositive(int[] nums) {
+    public int firstMissingPositive(int[] nums)
+     {
+
         int n = nums.length;
 
         // Put every number in its correct position
@@ -23,6 +25,7 @@ class Solution {
                 nums[correctIndex] = temp;
 
             }
+            
         }
 
         // Find the first number that is not in its correct position
