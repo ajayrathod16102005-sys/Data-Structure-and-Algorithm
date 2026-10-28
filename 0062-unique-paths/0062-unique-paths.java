@@ -1,10 +1,12 @@
 class Solution {
-    public int uniquePaths(int m, int n) {
+    public int uniquePaths(int m, int n)
+     {
 
         int[][] dp = new int[m][n];
 
         // First row
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
+         {
             
             dp[0][i] = 1;
         }
