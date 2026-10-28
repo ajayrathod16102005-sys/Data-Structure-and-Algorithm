@@ -2,14 +2,12 @@ class Solution {
     public int myAtoi(String s) {
 
         int i = 0;
-       
-       
         int n = s.length();
 
         // 1. Skip leading spaces
-        while (i < n && s.charAt(i) == ' ') {
-           
-            i++;
+        while (i < n && s.charAt(i) == ' ')
+        {         
+          i++;
         }
 
         // If string is empty after spaces
