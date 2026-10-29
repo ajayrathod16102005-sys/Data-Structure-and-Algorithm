@@ -20,11 +20,14 @@ class Solution
             int[] nums,
             boolean[] used,
             List<Integer> current,
-            List<List<Integer>> result) {
+            List<List<Integer>> result) 
+            {
 
         // A complete permutation is formed
-        if (current.size() == nums.length) {
+        if (current.size() == nums.length)
+         {
             result.add(new ArrayList<>(current));
+            
             return;
         }
 
