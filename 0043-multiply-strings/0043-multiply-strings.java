@@ -30,11 +30,13 @@ class Solution
                 int product = digit1 * digit2;
 
                 int pos1 = i + j;
+
                 int pos2 = i + j + 1;
 
                 int sum = product + result[pos2];
 
                 result[pos2] = sum % 10;
+                
                 result[pos1] += sum / 10;
             }
         }
