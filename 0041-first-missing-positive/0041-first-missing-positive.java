@@ -31,7 +31,8 @@ class Solution {
         // Find the first number that is not in its correct position
         for (int i = 0; i < n; i++) {
 
-            if (nums[i] != i + 1) {
+            if (nums[i] != i + 1) 
+            {
                 
                 return i + 1;
             }
