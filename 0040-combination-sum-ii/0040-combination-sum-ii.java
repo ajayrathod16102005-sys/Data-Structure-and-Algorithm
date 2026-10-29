@@ -2,7 +2,8 @@ import java.util.*;
 
 class Solution {
 
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+    public List<List<Integer>> combinationSum2(int[] candidates, int target)
+     {
         List<List<Integer>> result = new ArrayList<>();
 
         // Sort to bring duplicate values together
@@ -16,7 +17,8 @@ class Solution {
     private void backtrack(int[] candidates, int target, int start,
                             List<Integer> current,
 
-                            List<List<Integer>> result) {
+                            List<List<Integer>> result)
+                            {
 
         // Target achieved
         if (target == 0)
