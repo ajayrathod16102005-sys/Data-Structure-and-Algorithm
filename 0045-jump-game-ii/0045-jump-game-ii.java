@@ -15,10 +15,13 @@ class Solution {
             farthest = Math.max(farthest, i + nums[i]);
 
             // Current jump range is finished
-            if (i == currentEnd) {
+            if (i == currentEnd)
+             {
+
                 jumps++;
                 
                 currentEnd = farthest;
+                
             }
         }
 
