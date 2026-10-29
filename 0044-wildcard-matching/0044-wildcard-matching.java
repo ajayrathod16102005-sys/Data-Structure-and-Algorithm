@@ -28,12 +28,17 @@ class Solution {
                 }
 
                 // '*'
-                else if (pc == '*') {
+                else if (pc == '*')
+                 {
+
                     dp[i][j] =
                         dp[i][j - 1] ||     // '*' matches empty
-                        dp[i - 1][j];       // '*' matches one/more characters
+                        dp[i - 1][j];
+                               // '*' matches one/more characters
                 }
+
             }
+            
         }
 
         return dp[m][n];
