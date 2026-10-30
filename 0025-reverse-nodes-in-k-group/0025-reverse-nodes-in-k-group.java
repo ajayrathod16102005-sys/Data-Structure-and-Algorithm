@@ -13,12 +13,14 @@
  */
 class Solution {
 
-    public ListNode reverseKGroup(ListNode head, int k) {
+    public ListNode reverseKGroup(ListNode head, int k)
+     {
 
         if (head == null || k == 1)
             return head;
 
         ListNode dummy = new ListNode(0);
+
         dummy.next = head;
 
         ListNode groupPrev = dummy;
@@ -28,12 +30,14 @@ class Solution {
             // Find the kth node
             ListNode kth = groupPrev;
 
-            for (int i = 0; i < k && kth != null; i++) {
+            for (int i = 0; i < k && kth != null; i++) 
+            {
                 
                 kth = kth.next;
             }
 
             if (kth == null)
+            
                 break;
 
             ListNode groupNext = kth.next;
