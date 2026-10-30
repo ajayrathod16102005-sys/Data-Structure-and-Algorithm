@@ -6,25 +6,20 @@ class Solution {
      {
         List<Integer> result = new ArrayList<>();
 
-        int wordLen = words[0].length();
-        
+        int wordLen = words[0].length();        
         int wordCount = words.length;
-
         int totalLen = wordLen * wordCount;
 
         if (s.length() < totalLen) 
         {
             return result;
         }
-
         // Frequency of each word in words
         Map<String, Integer> wordFreq = new HashMap<>();
-
         for (String word : words) {
             wordFreq.put(word, wordFreq.getOrDefault(word, 0) + 1);
         }
-
-        // Try every possible starting offset
+     // Try every possible starting offset
         for (int offset = 0; offset < wordLen; offset++) {
 
             int left = offset;
