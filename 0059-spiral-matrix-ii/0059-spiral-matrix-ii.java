@@ -8,6 +8,7 @@ class Solution {
         int bottom = n - 1;
         
         int left = 0;
+
         int right = n - 1;
 
         int num = 1;
@@ -23,7 +24,9 @@ class Solution {
             top++;
 
             // Top -> Bottom
-            for (int i = top; i <= bottom; i++) {
+            for (int i = top; i <= bottom; i++)
+             {
+                
                 matrix[i][right] = num++;
             }
             right--;
