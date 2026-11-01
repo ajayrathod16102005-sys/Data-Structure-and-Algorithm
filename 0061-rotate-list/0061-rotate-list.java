@@ -1,25 +1,35 @@
 class Solution {
-    public ListNode rotateRight(ListNode head, int k) {
+    public ListNode rotateRight(ListNode head, int k)
+     {
         
-        if (head == null || head.next == null || k == 0) {
+        if (head == null || head.next == null || k == 0)
+         {
+
             return head;
+
         }
 
         // Find length and tail
+
         int length = 1;
         
         ListNode tail = head;
 
-        while (tail.next != null) {
+        while (tail.next != null) 
+        {
             tail = tail.next;
+
             length++;
         }
 
         // Reduce unnecessary rotations
         k %= length;
 
-        if (k == 0) {
+        if (k == 0)
+         {
+
             return head;
+            
         }
 
 
