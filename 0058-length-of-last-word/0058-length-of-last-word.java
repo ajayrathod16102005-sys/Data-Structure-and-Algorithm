@@ -8,24 +8,16 @@ class Solution {
         int count = 0;
 
         // Skip trailing spaces
-
         while (i >= 0 && s.charAt(i) == ' ')
-         {
-            
-            i--;
-
-            
+         {            
+            i--;   
         }
-
         // Count characters of the last word
         while (i >= 0 && s.charAt(i) != ' ')
-         {
-           
-            count++;
-            
+         {           
+            count++;         
             i--;
         }
-
         return count;
-    }
+        }
 }
