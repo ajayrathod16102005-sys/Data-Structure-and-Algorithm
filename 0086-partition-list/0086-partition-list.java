@@ -1,6 +1,7 @@
 class Solution {
     
-    public ListNode partition(ListNode head, int x) {
+    public ListNode partition(ListNode head, int x) 
+    {
 
         // Dummy nodes for two partitions
         ListNode lessDummy = new ListNode(0);
@@ -16,13 +17,19 @@ class Solution {
             
 
             if (head.val < x) {
+
                 // Add node to less list
+
                 less.next = head;
+
                 less = less.next;
-            } else {
+            } else 
+            {
                 // Add node to greater/equal list
                 greater.next = head;
+
                 greater = greater.next;
+
             }
 
             head = head.next;
@@ -35,5 +42,6 @@ class Solution {
         greater.next = null;
 
         return lessDummy.next;
+        
     }
 }
