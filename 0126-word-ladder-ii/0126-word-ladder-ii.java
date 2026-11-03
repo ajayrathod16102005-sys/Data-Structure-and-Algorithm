@@ -10,6 +10,7 @@ class Solution {
              {
 
         List<List<String>> result = new ArrayList<>();
+
         Set<String> wordSet = new HashSet<>(wordList);
         // If endWord is not present, no answer is possible
         if (!wordSet.contains(endWord))
@@ -27,6 +28,7 @@ class Solution {
         Queue<String> queue = new LinkedList<>();
 
         queue.offer(beginWord);
+
         distance.put(beginWord, 0);
 
         boolean found = false;
@@ -39,17 +41,21 @@ class Solution {
             for (int i = 0; i < size; i++) {
 
                 String current = queue.poll();
+
                 int currentDistance = distance.get(current);
 
                 char[] chars = current.toCharArray();
 
-                for (int j = 0; j < chars.length; j++) {
+                for (int j = 0; j < chars.length; j++)
+                 {
+
 
                     char original = chars[j];
 
                     for (char c = 'a'; c <= 'z'; c++) {
 
-                        if (c == original) {
+                        if (c == original)
+                         {
                             continue;
                         }
 
