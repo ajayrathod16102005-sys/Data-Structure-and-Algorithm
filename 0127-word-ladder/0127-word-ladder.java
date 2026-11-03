@@ -54,22 +54,26 @@ class Solution {
                         }
 
                         // If the new word exists in dictionary
-                        if (wordSet.contains(nextWord)) {
+                        if (wordSet.contains(nextWord))
+                         {
 
                             queue.offer(nextWord);
 
                             // Remove it so we don't visit it again
                             wordSet.remove(nextWord);
+
                         }
                     }
 
                     // Restore original character
                     chars[j] = original;
                 }
+
             }
 
             // Move to next level
             level++;
+            
         }
 
         // No transformation sequence exists
