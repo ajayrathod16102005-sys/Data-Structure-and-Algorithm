@@ -10,8 +10,11 @@ class Solution {
                 left++;
             }
             // Skip non-alphanumeric characters from right
-            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
+            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) 
+            {
+
                 right--;
+                
             }
 
             // Compare characters ignoring case
